@@ -34,6 +34,8 @@
 
 ```
 ZADT30801. Przygotuj stronę metodą RWD aby zachowywała się jak na poniższym obrazie:
+- break points : 600px & 1000px
+- dowolna metoda budowy layoutu
 ```
 
 ![ZADT308101](ZADT30801-RWD.JPG)
