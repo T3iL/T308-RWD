@@ -38,7 +38,7 @@ ZADT30801. Przygotuj stronę metodą RWD aby zachowywała się jak na poniższym
 - dowolna metoda budowy layoutu
 ```
 
-![ZADT308101](ZADT30801-RWD.JPG)
+![ZADT308101](ZADT30801-RWD_.JPG)
 
 ### --------Links
 https://github.com/T3iL/T303-CSS
