@@ -12,7 +12,6 @@
         .internal{
             min-width:100px;
             min-height:100px;
-            background:green;
             margin:10px;
         }
         @media (max-width:600px) {
