@@ -36,6 +36,8 @@
 ZADT30801. Przygotuj stronę metodą RWD aby zachowywała się jak na poniższym obrazie:
 ```
 
+![ZADT308101](ZADT30801-RWD.JPG)
+
 ### --------Links
 https://github.com/T3iL/T303-CSS
 
