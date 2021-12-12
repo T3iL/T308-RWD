@@ -45,6 +45,7 @@ ZADT30801. Przygotuj stronę metodą RWD aby zachowywała się jak na poniższym
 ZADT30802. Odtwórz stronę przedstawioną na poiniższym obrazie zgodnie z natępującymi założeniami:
 - Strona zbudowana z navbara i czterech sekcji do których przenosi nawigacja z menu
 - wysokość sekcji to 100% wysokości okna przeglądarki
+- tła sekcji to dowolne obrazy stockowe
 - navbar ma wysokość 4em i zawiera logo, oraz menu poziome
 - menu poziome znika i pojawia sięburger przy szerokości mniejszej niż 600px
 - burger rozwija menu pionowe
