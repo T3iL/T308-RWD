@@ -58,7 +58,7 @@ aspekty dodatkowe (na wyższą ocenę)
 
 PC|MOBILE
 --------------------|-----------------
-![RWD_1](RWD_01.JPG)|![RWD_2](RWD_02.JPG) 
+![RWD_1](RWD_01.JPG)|![RWD_5](RWD_05.JPG) 
 MENU CLOSED|MENU OPENED
 ![RWD_3](RWD_03.JPG)|![RWD_4](RWD_04.JPG) 
 
