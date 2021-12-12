@@ -55,9 +55,9 @@ aspekty dodatkowe (na wyższą ocenę)
 - akcja burgera uruchamiana przez click (a nie hover) 
 ```
 
-[RWD_1](RWD_01.JPG) [RWD_2](RWD_02.JPG) 
+![RWD_1](RWD_01.JPG) ![RWD_2](RWD_02.JPG) 
 
-[RWD_3](RWD_03.JPG) [RWD_4](RWD_04.JPG) 
+![RWD_3](RWD_03.JPG) ![RWD_4](RWD_04.JPG) 
 
 ### --------Links
 https://github.com/T3iL/T303-CSS
