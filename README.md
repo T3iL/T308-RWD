@@ -47,6 +47,7 @@ ZADT30802. Odtwórz stronę przedstawioną na poiniższym obrazie zgodnie z nat�
 - wysokość sekcji to 100% wysokości okna przeglądarki
 - tła sekcji to dowolne obrazy stockowe
 - navbar ma wysokość 4em i zawiera logo, oraz menu poziome
+- navbar przyczepiony na stałe to górnej krawędzi strony
 - menu poziome znika i pojawia sięburger przy szerokości mniejszej niż 600px
 - burger rozwija menu pionowe
 
