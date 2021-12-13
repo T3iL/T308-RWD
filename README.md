@@ -42,7 +42,7 @@ ZADT30801. Przygotuj stronę metodą RWD aby zachowywała się jak na poniższym
 
 
 ```
-ZADT30802. Odtwórz stronę przedstawioną na poiniższym obrazie zgodnie z natępującymi założeniami:
+ZADT30802. Odtwórz stronę przedstawioną na poniższym obrazie zgodnie z natępującymi założeniami:
 - Strona zbudowana z navbara i czterech sekcji do których przenosi nawigacja z menu
 - wysokość sekcji to 100% wysokości okna przeglądarki
 - tła sekcji to dowolne obrazy stockowe
